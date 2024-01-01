@@ -20,8 +20,11 @@ Special Feature: Stakeholder Involvement - Abhishek Anand, Revenue Manager at OY
 ## Usage
 The dashboard offers an interactive interface for users to explore revenue insights. To use:
 1. Download the Power BI file.
-2. Connect the dashboard to your dataset or data source.
-3. Explore various visualizations, filters, and insights provided.
+2. Connect the dashboard to the dataset( 5 csv files provided) or data source.
+3. DAX formulas used are provided in the file metric list.xlsx.
+4. meta_deta_hositality explains all about the columns in all excel files.
+5. Explore various visualizations, filters, and insights provided.
+6. There is a full presentation of this project in the file revenue generation.pptx
 
 ## Data Source
 https://codebasics.io/challenge/codebasics-resume-project-challenge
@@ -30,6 +33,5 @@ https://codebasics.io/challenge/codebasics-resume-project-challenge
 - **Power BI:** Used for visualization, incorporating Power Query for data transformation.
 - **DAX (Data Analysis Expressions):** Implemented various DAX formulas for calculations, segmentation, and metrics evaluation.
 
-## DAX Formulas Used
-The metrics list of formulas used in DAX are provided in the file: metrics list.xlsx
+
 
