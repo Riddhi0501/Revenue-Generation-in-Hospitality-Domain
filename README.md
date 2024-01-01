@@ -1,6 +1,7 @@
 ## Revenue-Generation-in-Hospitality-Domain
 ## Table of Contents
 - [Introduction](#introduction)
+- [Dashboard](#dashboard)
 - [Features](#features)
 - [Usage](#usage)
 - [Data Source](#data-source)
@@ -16,6 +17,9 @@ Special Feature: Stakeholder Involvement - Abhishek Anand, Revenue Manager at OY
 - **Segmented Revenue Analysis:** Understanding revenue performance across different segments to pinpoint high-performing and improvement areas.
 - **ADR and RevPAR Calculation:** Computing ADR (Average Daily Rate) and RevPAR (Revenue Per Available Room) for pricing strategies and optimization.
 - **Realization Percentage Assessment:** Evaluating revenue realization against maximum potential to identify optimization areas.
+
+##Dashboard
+
 
 ## Usage
 The dashboard offers an interactive interface for users to explore revenue insights. To use:
