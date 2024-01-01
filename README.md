@@ -22,12 +22,9 @@ Special Feature: Stakeholder Involvement - Abhishek Anand, Revenue Manager at OY
 
 
 ![dashboard](https://github.com/Riddhi0501/Revenue-Generation-in-Hospitality-Domain/assets/84369113/8ba32daa-54ea-494d-b307-b08cb8967f51)
-
 Some of the tooltips
 ![dashboard](https://github.com/Riddhi0501/Revenue-Generation-in-Hospitality-Domain/assets/84369113/275203b5-4678-4de7-816b-00443b5ee829)
-
-
-
+![dashboard](https://github.com/Riddhi0501/Revenue-Generation-in-Hospitality-Domain/assets/84369113/eed79683-3790-42f7-9679-6a8be6916dde)
 
 ## Usage
 The dashboard offers an interactive interface for users to explore revenue insights. To use:
