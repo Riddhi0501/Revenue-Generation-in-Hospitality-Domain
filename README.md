@@ -31,5 +31,5 @@ https://codebasics.io/challenge/codebasics-resume-project-challenge
 - **DAX (Data Analysis Expressions):** Implemented various DAX formulas for calculations, segmentation, and metrics evaluation.
 
 ## DAX Formulas Used
-The metrics list of formulas used in DAX are provided in the file.
+The metrics list of formulas used in DAX are provided in the file: metrics list.xlsx
 
