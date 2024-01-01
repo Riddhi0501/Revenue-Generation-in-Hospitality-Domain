@@ -5,10 +5,10 @@
 - [Usage](#usage)
 - [Data Source](#data-source)
 - [Technologies Used](#technologies-used)
-- [DAX Formulas Used](#dax-formulas-used)
 
 ## Introduction
 This project is a data analytics dashboard aimed at providing revenue insights within the hospitality industry. Leveraging Power BI, the dashboard incorporates various DAX formulas to analyze and visualize revenue data for actionable insights.
+
 Special Feature: Stakeholder Involvement - Abhishek Anand, Revenue Manager at OYO. This project is proud to have had direct involvement and guidance from Abhishek Anand, a distinguished figure in the hospitality industry serving as the Revenue Manager at OYO. As a key stakeholder, his expertise, insights, and validation have been integral in shaping and validating the outcomes of this real-time hospitality revenue insights project.
 
 ## Features
