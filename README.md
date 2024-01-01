@@ -18,7 +18,15 @@ Special Feature: Stakeholder Involvement - Abhishek Anand, Revenue Manager at OY
 - **ADR and RevPAR Calculation:** Computing ADR (Average Daily Rate) and RevPAR (Revenue Per Available Room) for pricing strategies and optimization.
 - **Realization Percentage Assessment:** Evaluating revenue realization against maximum potential to identify optimization areas.
 
-##Dashboard
+## Dashboard
+
+
+![dashboard](https://github.com/Riddhi0501/Revenue-Generation-in-Hospitality-Domain/assets/84369113/8ba32daa-54ea-494d-b307-b08cb8967f51)
+
+# Some of the tooltips
+![dashboard](https://github.com/Riddhi0501/Revenue-Generation-in-Hospitality-Domain/assets/84369113/0a20623a-cd38-4ae1-9e59-84a0e474be11)
+![dashboard](https://github.com/Riddhi0501/Revenue-Generation-in-Hospitality-Domain/assets/84369113/a627f193-490d-4eca-8d5c-8c94ab57ac8d)
+
 
 
 ## Usage
